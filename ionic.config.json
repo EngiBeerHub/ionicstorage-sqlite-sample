@@ -1,0 +1,7 @@
+{
+  "name": "ionicstorage-sqlite-sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
